@@ -41,3 +41,6 @@ _temp/
 cypress/screenshots
 # Sentry Config File
 .env.sentry-build-plugin
+dist
+.DS_Store
+
